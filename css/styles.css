@@ -1,0 +1,57 @@
+/************************** TAG SELECTORS *************************************/
+
+body {
+  background-color: #eafdfc;
+}
+
+h1 {
+  color: #2b3a55;
+  font-size: 100px;
+  text-align: center;
+}
+
+h1:hover {
+  color: gold;
+  font-size: 100px;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+p{
+  text-align: center;
+}
+
+/************************** CLASS SELECTORS ***********************************/
+
+.son {
+  background-color: black;
+}
+
+.dad {
+  background-color: green;
+}
+
+.mom {
+  background-color: red;
+}
+
+.parents {
+  background-color: gold;
+}
+
+
+
+
+/************************** ID SELECTORS ***********************************/
+
+/*#heading {
+    color: #0a2647;
+}
+*/
